@@ -1,4 +1,4 @@
-# smart_watering_master
+# smart_wateringmaster
 
 A- WEB APPLICATION CONFIGURATION
 
